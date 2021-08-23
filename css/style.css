@@ -1,0 +1,59 @@
+/* Esto es un comentario en CSS
+SELECTOR {
+    PROPIEDAD : 1233131
+    PROPIEDAD: "23e23px"
+}
+bgcolor="lightblue"
+*/
+
+* {
+    font-size: x-large;
+    /*font-size: 2rem;*/
+    /*font-family: fantasy; /* En mi caso tengo esta font y la uso*/
+}
+
+body {
+    background-color:black;
+}
+
+footer {
+    background-color:rgb(81, 69, 148);
+    color: white;
+    font-family: 'Klee One', cursive;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+/*a {
+    color: white;
+}*/
+
+#iniciar {
+    color: white;
+}
+
+.whitebg {
+    background-color: white;
+    color: black;
+}
+
+body > table > tbody > tr {
+    background-color: black;
+    color: white;
+}
+
+/*body > table > tbody > tr > td:nth-child(2) > section > p {
+    background-color: black;
+    color: white;
+}*/
+
+ul, h2 {
+    color: white;
+}
+
+.fa-cloud {
+    color: red;
+}
